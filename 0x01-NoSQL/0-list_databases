@@ -1,0 +1,3 @@
+// Lists all databases in MongoDB version 4.2
+// Platform: Ubuntu 18.04 LTS
+show dbs
