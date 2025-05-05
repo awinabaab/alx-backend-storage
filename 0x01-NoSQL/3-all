@@ -1,0 +1,4 @@
+// Lists all documents in the collection school on MondoDB 4.2
+// Platform: Ubuntu 18.04
+
+db.school.find()
