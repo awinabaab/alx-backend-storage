@@ -1,0 +1,3 @@
+// Creates or use the database my_db on MongoDB version 4.2
+// Platform: Ubuntu 18.04 LTS
+use my_db
