@@ -1,0 +1,4 @@
+// Lists all documents with name starting with ALX in the collection school on MongoDB 4.2
+// Platform: Ubuntu 18.04
+
+db.school.find({ name:  { $regex: /^ALX/ } })
